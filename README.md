@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @doubledizle
-- 👀 I’m interested in coding, scripting, automation
-- 🌱 I’m currently learning Pyton and PowerShell
-- 💞️ I’m looking to collaborate on anything really, I'm a noob
-- 📫 How to reach me: DM I guess?
+- 👋 Hi, I’m Donny, aka DoubleDizle
+- 👀 I’m mostly interested in making full stack web apps with Javascript
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on anything that looks interesting
+- 📫 How to reach me: https://twitter.com/donnyduncan
 
 <!---
 doubledizle/doubledizle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
