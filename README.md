@@ -1,4 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="left">I make responsive websites and full stack web applications.</h3>
+
+<h4 align="left">Portfolio: <a href="http://donnyduncan.com">donnyduncan.com</a></h4>
 
 <p align="left"> <a href="https://twitter.com/donnyduncan" target="blank"><img src="https://img.shields.io/twitter/follow/donnyduncan?logo=twitter&style=for-the-badge" alt="donnyduncan" /></a> </p>
 
