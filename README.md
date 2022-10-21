@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/donnyduncan" target="blank"><img src="https://img.shields.io/twitter/follow/donnyduncan?logo=twitter&style=for-the-badge" alt="donnyduncan" /></a> </p>
 
-- 🌱 I’m currently learning **Javscript, Node, React, MongoDB**
+- 🌱 I’m currently learning **React, MongoDB, MVC, Big O Notation**
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
