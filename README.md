@@ -2,11 +2,13 @@
 
 <h4 align="left">Portfolio: <a href="http://donnyduncan.com">donnyduncan.com</a></h4>
 
-<p align="left"> <a href="https://twitter.com/donnyduncan" target="blank"><img src="https://img.shields.io/twitter/follow/donnyduncan?logo=twitter&style=for-the-badge" alt="donnyduncan" /></a> </p>
+<a href="https://twitter.com/donnyduncan" target="blank"><img src="https://img.shields.io/twitter/follow/donnyduncan?logo=twitter&style=for-the-badge" alt="donnyduncan" /></a>
 
-- 🌱 I’m currently learning **React, MongoDB, MVC, Big O Notation**
+<img src="https://www.codewars.com/users/DoubleDizle/badges/large" alt="image" data-canonical-src="https://www.codewars.com/users/DoubleDizle/badges/large" style="max-width: 100%;">
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 🌱 I’m currently learning **React, MVC, Big O Notation**
+
+- 💬 Ask me about **HTML, CSS, Javascript, Node.js, MongoDB**
 
 - 📫 How to reach me **donnyduncan@gmail.com**
 
